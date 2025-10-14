@@ -1,12 +1,12 @@
-# 🧠 Awesome LLM Educational Assessment
+# 📚 arXiv LLM Educational Assessment
 
-LLM 기반 **교육 평가 / 자동 채점(Auto-grading)** 관련 arXiv 논문을  
-매주 자동 수집하여 공개하는 오픈 아카이브입니다.  
-이 리포지토리는 GitHub Actions를 통해 매주 arXiv API를 호출하고,  
+LLM 기반 **교육 평가 / 자동 채점(Auto-grading)** 관련 arXiv 논문을
+매주 자동 수집하여 공개하는 오픈 아카이브입니다.
+이 리포지토리는 GitHub Actions를 통해 매주 arXiv API를 호출하고,
 최근 7일간 새로 등록된 관련 논문들을 자동으로 업데이트합니다.
 
-📅 매주 일요일 04:00 (UTC) 자동 갱신  
-🌐 실시간 페이지 보기: [GitHub Pages](https://<username>.github.io/Awesome-LLM-EduAssessment/)
+📅 매주 일요일 04:00 (UTC) 자동 갱신
+🌐 실시간 페이지 보기: [GitHub Pages](https://lovehyun.github.io/arxiv-llmedu/web/)
 
 ---
 
@@ -67,22 +67,23 @@ python -m http.server 8000
 ## 📁 디렉토리 구조
 
 ```
-Awesome-LLM-EduAssessment/
+arxiv-llmedu/
 ├── scripts/
 │   ├── weekly_arxiv.py
 │   ├── manual_arxiv.py
 │   └── fetcher_utils.py
 │
 ├── data/
-│   ├── papers.md
-│   └── manual_*.md
+│   ├── papers_2024.md
+│   ├── papers_2025.md
+│   └── ...
 │
 ├── web/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
-├── .github/workflows/fetch.yml
+├── .github/workflows/weekly-update.yml
 ├── config.yaml
 └── README.md
 ```
