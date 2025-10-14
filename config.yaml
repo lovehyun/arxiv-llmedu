@@ -1,0 +1,14 @@
+topics:
+  - name: "1. 자동 채점 (Essay Scoring + LLM)"
+    query: '"large language model" AND ("automated essay scoring" OR "short answer grading" OR "student writing")'
+
+  - name: "2. 루브릭 기반 피드백 및 교육 평가"
+    query: '("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")'
+
+  - name: "3. 공정성, 신뢰도, 평가 일관성"
+    query: '("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")'
+
+  - name: "4. AI 기반 교육 데이터 분석 (learning analytics)"
+    query: '("learning analytics" OR "educational measurement") AND ("GPT" OR "large language model" OR "LLM")'
+
+max_results: 10

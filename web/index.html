@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LLM 기반 교육 평가 논문 아카이브</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>📚 LLM 기반 교육 평가 논문 아카이브</h1>
+  <p class="desc">
+    자동 채점, 루브릭 기반 피드백, 공정성 등 주제를 매주 arXiv에서 수집하여 정리합니다.
+  </p>
+
+  <div class="controls">
+    <button onclick="toggleAll(true)">📖 전체 펼치기</button>
+    <button onclick="toggleAll(false)">🗂 전체 접기</button>
+    <span class="separator">|</span>
+    <button onclick="toggleSelectedYears(true)">✅ 선택한 년도 펼치기</button>
+    <button onclick="toggleSelectedYears(false)">☑️ 선택한 년도 접기</button>
+  </div>
+
+  <div id="papers">⌛ 불러오는 중...</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
