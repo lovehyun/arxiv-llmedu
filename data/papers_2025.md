@@ -1,6 +1,24 @@
 # 📚 LLM 기반 교육 평가 논문 아카이브 (주간 갱신)
 
 
+
+
+## 🗓️ 2025-10-26 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge**  
+_Authors:_ Zhilin Wang, Jaehun Jung, Ximing Lu, Shizhe Diao, Ellie Evans, Jiaqi Zeng, Pavlo Molchanov, Yejin Choi, Jan Kautz, Yi Dong  
+_Published:_ 2025-10-21  
+[arXiv Link](http://arxiv.org/abs/2510.18941v1)
+
+## 🗓️ 2025-10-19 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**An Efficient Rubric-based Generative Verifier for Search-Augmented LLMs**  
+_Authors:_ Linyue Ma, Yilong Xu, Xiang Long, Zhi Zheng  
+_Published:_ 2025-10-16  
+[arXiv Link](http://arxiv.org/abs/2510.14660v1)
+
 ## 🗓️ 2025-10-14 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
