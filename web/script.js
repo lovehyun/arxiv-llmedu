@@ -84,7 +84,6 @@ async function load() {
             yearDetails.open = true; // 기본적으로 펼쳐져 있음
 
             const yearSummary = document.createElement('summary');
-            yearSummary.textContent = `${year}년 (${sections.length}건)`;
 
             yearDetails.appendChild(yearSummary);
 
@@ -92,14 +91,21 @@ async function load() {
             const dateContainer = document.createElement('div');
             dateContainer.className = 'date-container';
 
+            let totalPapers = 0; // 전체 논문 개수
+
             for (const sec of sections) {
                 const [header, ...rest] = sec.split('\n');
                 const body = rest.join('\n').trim();
 
+                // 각 섹션의 논문 개수 계산 (- 또는 * 로 시작하는 줄)
+                const paperCount = (body.match(/^[\-\*]\s+/gm) || []).length;
+                totalPapers += paperCount;
+
                 const det = document.createElement('details');
                 det.setAttribute('data-year', year);
                 const sum = document.createElement('summary');
-                sum.textContent = header.replace('🗓️ ', '').trim();
+                const cleanHeader = header.replace('🗓️ ', '').trim();
+                sum.textContent = `${cleanHeader} (${paperCount})`;
 
                 const content = document.createElement('div');
                 content.innerHTML = marked.parse(body);
@@ -108,6 +114,9 @@ async function load() {
                 det.appendChild(content);
                 dateContainer.appendChild(det);
             }
+
+            // 년도 summary에 전체 논문 개수 표시
+            yearSummary.textContent = `${year}년 (${totalPapers}건)`;
 
             yearDetails.appendChild(dateContainer);
             yearHeader.appendChild(yearDetails);
