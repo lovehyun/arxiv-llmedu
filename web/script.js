@@ -98,7 +98,7 @@ async function load() {
                 const body = rest.join('\n').trim();
 
                 // 각 섹션의 논문 개수 계산 (** 볼드체로 시작하는 논문 제목)
-                const paperCount = (body.match(/^\*\*.*\*\*$/gm) || []).length;
+                const paperCount = (body.match(/^\*\*.*\*\*/gm) || []).length;
                 totalPapers += paperCount;
 
                 const det = document.createElement('details');
