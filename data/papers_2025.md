@@ -3,6 +3,43 @@
 
 
 
+
+
+
+## 🗓️ 2025-11-16 Weekly Digest — 4. AI 기반 교육 데이터 분석 (learning analytics)
+<small>("learning analytics" OR "educational measurement") AND ("GPT" OR "large language model" OR "LLM")</small>
+
+**AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics**  
+_Authors:_ Bakhtawar Ahtisham, Kirk Vanacore, Jinsook Lee, Zhuqian Zhou, Doug Pietrzak, Rene F. Kizilcec  
+_Published:_ 2025-11-12  
+[arXiv Link](https://arxiv.org/abs/2511.09785v1)
+
+## 🗓️ 2025-11-16 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
+<small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
+
+**Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling**  
+_Authors:_ Shiyu Ji, Yixuan Wang, Yijun Liu, Qingfu Zhu, Wanxiang Che  
+_Published:_ 2025-11-12  
+[arXiv Link](https://arxiv.org/abs/2511.09345v1)
+
+**Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for High-Stakes Decisions**  
+_Authors:_ Alejandro R. Jadad  
+_Published:_ 2025-11-10  
+[arXiv Link](https://arxiv.org/abs/2511.07669v1)
+
+## 🗓️ 2025-11-16 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following**  
+_Authors:_ Yun He, Wenzhe Li, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Selina Peng, Beibin Li, Shengjie Bi, Shishir G. Patil, Qi Qi, Shengyu Feng, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Awadalla, Manaal Faruqui  
+_Published:_ 2025-11-13  
+[arXiv Link](https://arxiv.org/abs/2511.10507v1)
+
+**ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents**  
+_Authors:_ Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, Denis Peskoff, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu  
+_Published:_ 2025-11-10  
+[arXiv Link](https://arxiv.org/abs/2511.07685v1)
+
 ## 🗓️ 2025-10-26 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
