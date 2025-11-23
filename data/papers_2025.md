@@ -6,6 +6,24 @@
 
 
 
+
+
+## 🗓️ 2025-11-23 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
+<small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
+
+**Bridging Human and Model Perspectives: A Comparative Analysis of Political Bias Detection in News Media Using Large Language Models**  
+_Authors:_ Shreya Adrita Banik, Niaz Nafi Rahman, Tahsina Moiukh, Farig Sadeque  
+_Published:_ 2025-11-18  
+[arXiv Link](https://arxiv.org/abs/2511.14606v1)
+
+## 🗓️ 2025-11-23 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Multidimensional Rubric-oriented Reward Model Learning via Geometric Projection Reference Constraints**  
+_Authors:_ Yongnan Jin, Xurui Li, Feng Cao, Liucun Gao, Juanjuan Yao  
+_Published:_ 2025-11-20  
+[arXiv Link](https://arxiv.org/abs/2511.16139v1)
+
 ## 🗓️ 2025-11-16 Weekly Digest — 4. AI 기반 교육 데이터 분석 (learning analytics)
 <small>("learning analytics" OR "educational measurement") AND ("GPT" OR "large language model" OR "LLM")</small>
 
