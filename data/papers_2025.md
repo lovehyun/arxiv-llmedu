@@ -8,6 +8,15 @@
 
 
 
+
+## 🗓️ 2025-11-30 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
+<small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
+
+**Path-Constrained Retrieval: A Structural Approach to Reliable LLM Agent Reasoning Through Graph-Scoped Semantic Search**  
+_Authors:_ Joseph Oladokun  
+_Published:_ 2025-11-23  
+[arXiv Link](https://arxiv.org/abs/2511.18313v1)
+
 ## 🗓️ 2025-11-23 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
 <small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
 
