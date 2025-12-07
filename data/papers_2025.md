@@ -9,6 +9,34 @@
 
 
 
+
+
+## 🗓️ 2025-12-07 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
+<small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
+
+**E-valuator: Reliable Agent Verifiers with Sequential Hypothesis Testing**  
+_Authors:_ Shuvom Sadhuka, Drew Prinster, Clara Fannjiang, Gabriele Scalia, Aviv Regev, Hanchen Wang  
+_Published:_ 2025-12-02  
+[arXiv Link](https://arxiv.org/abs/2512.03109v1)
+
+**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**  
+_Authors:_ Lingbo Li, Anuradha Mathrani, Teo Susnjak  
+_Published:_ 2025-12-01  
+[arXiv Link](https://arxiv.org/abs/2512.01452v1)
+
+## 🗓️ 2025-12-07 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning**  
+_Authors:_ Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, Yucheng Zhou, Usman Naseem  
+_Published:_ 2025-12-01  
+[arXiv Link](https://arxiv.org/abs/2512.01282v2)
+
+**Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics**  
+_Authors:_ Jinu Lee, Kyoung-Woon On, Simeng Han, Arman Cohan, Julia Hockenmaier  
+_Published:_ 2025-11-30  
+[arXiv Link](https://arxiv.org/abs/2512.01020v1)
+
 ## 🗓️ 2025-11-30 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
 <small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
 
