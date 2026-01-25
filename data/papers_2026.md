@@ -1,6 +1,25 @@
 # 📚 LLM 기반 교육 평가 논문 아카이브 (주간 갱신)
 
 
+
+## 🗓️ 2026-01-25 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification**  
+_Authors:_ Yuxuan Wan, Tianqing Fang, Zaitang Li, Yintong Huo, Wenxuan Wang, Haitao Mi, Dong Yu, Michael R. Lyu  
+_Published:_ 2026-01-22  
+[arXiv Link](https://arxiv.org/abs/2601.15808v1)
+
+**Automated Rubrics for Reliable Evaluation of Medical Dialogue Systems**  
+_Authors:_ Yinzhu Chen, Abdine Maiga, Hossein A. Rahmani, Emine Yilmaz  
+_Published:_ 2026-01-21  
+[arXiv Link](https://arxiv.org/abs/2601.15161v1)
+
+**RubRIX: Rubric-Driven Risk Mitigation in Caregiver-AI Interactions**  
+_Authors:_ Drishti Goel, Jeongah Lee, Qiuyue Joy Zhong, Violeta J. Rodriguez, Daniel S. Brown, Ravi Karkar, Dong Whi Yoo, Koustuv Saha  
+_Published:_ 2026-01-19  
+[arXiv Link](https://arxiv.org/abs/2601.13235v1)
+
 ## 🗓️ 2026-01-18 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
