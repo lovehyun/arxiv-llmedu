@@ -2,6 +2,15 @@
 
 
 
+
+## 🗓️ 2026-02-01 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs**  
+_Authors:_ Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler, Gregory D. Lyng, Sanjit Singh Batra, Robert E. Tillman  
+_Published:_ 2026-01-26  
+[arXiv Link](https://arxiv.org/abs/2601.18706v1)
+
 ## 🗓️ 2026-01-25 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
