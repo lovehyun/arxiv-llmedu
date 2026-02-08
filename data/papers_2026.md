@@ -3,6 +3,30 @@
 
 
 
+
+## 🗓️ 2026-02-08 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks**  
+_Authors:_ William F. Shen, Xinchi Qiu, Chenxi Whitehouse, Lisa Alazraki, Shashwat Goel, Francesco Barbieri, Timon Willi, Akhil Mathur, Ilias Leontiadis  
+_Published:_ 2026-02-04  
+[arXiv Link](https://arxiv.org/abs/2602.05125v1)
+
+**Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation**  
+_Authors:_ Changze Lv, Jie Zhou, Wentao Zhao, Jingwen Xu, Zisu Huang, Muzhao Tian, Shihan Dou, Tao Gui, Le Tian, Xiao Zhou, Xiaoqing Zheng, Xuanjing Huang, Jie Zhou  
+_Published:_ 2026-02-03  
+[arXiv Link](https://arxiv.org/abs/2602.03619v1)
+
+**Am I More Pointwise or Pairwise? Revealing Position Bias in Rubric-Based LLM-as-a-Judge**  
+_Authors:_ Yuzheng Xu, Tosho Hirasawa, Tadashi Kozuno, Yoshitaka Ushiku  
+_Published:_ 2026-02-02  
+[arXiv Link](https://arxiv.org/abs/2602.02219v1)
+
+**Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training**  
+_Authors:_ Ran Xu, Tianci Liu, Zihan Dong, Tony You, Ilgee Hong, Carl Yang, Linjun Zhang, Tao Zhao, Haoyu Wang  
+_Published:_ 2026-02-02  
+[arXiv Link](https://arxiv.org/abs/2602.01511v1)
+
 ## 🗓️ 2026-02-01 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
