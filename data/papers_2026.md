@@ -4,6 +4,25 @@
 
 
 
+
+## 🗓️ 2026-02-15 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**  
+_Authors:_ Leheng Sheng, Wenchang Ma, Ruixin Hong, Xiang Wang, An Zhang, Tat-Seng Chua  
+_Published:_ 2026-02-11  
+[arXiv Link](https://arxiv.org/abs/2602.10885v1)
+
+**LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation**  
+_Authors:_ Zhiling Yan, Dingjie Song, Zhe Fang, Yisheng Ji, Xiang Li, Quanzheng Li, Lichao Sun  
+_Published:_ 2026-02-10  
+[arXiv Link](https://arxiv.org/abs/2602.10367v1)
+
+**Learning to Judge: LLMs Designing and Applying Evaluation Rubrics**  
+_Authors:_ Clemencia Siro, Pourya Aliannejadi, Mohammad Aliannejadi  
+_Published:_ 2026-02-09  
+[arXiv Link](https://arxiv.org/abs/2602.08672v1)
+
 ## 🗓️ 2026-02-08 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
