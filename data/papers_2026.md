@@ -5,6 +5,15 @@
 
 
 
+
+## 🗓️ 2026-02-22 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**  
+_Authors:_ Ruipeng Jia, Yunyi Yang, Yuxin Wu, Yongbo Gai, Siyuan Tao, Mengyu Zhou, Jianhe Lin, Xiaoxi Jiang, Guanjun Jiang  
+_Published:_ 2026-02-15  
+[arXiv Link](https://arxiv.org/abs/2602.14069v1)
+
 ## 🗓️ 2026-02-15 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
