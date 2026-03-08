@@ -6,6 +6,25 @@
 
 
 
+
+## 🗓️ 2026-03-08 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning**  
+_Authors:_ Shiyang Li, Zijian Zhang, Winson Chen, Yuebo Luo, Mingyi Hong, Caiwen Ding  
+_Published:_ 2026-03-03  
+[arXiv Link](https://arxiv.org/abs/2603.02637v1)
+
+**Beyond the Resumé: A Rubric-Aware Automatic Interview System for Information Elicitation**  
+_Authors:_ Harry Stuart, Masahiro Kaneko, Timothy Baldwin  
+_Published:_ 2026-03-02  
+[arXiv Link](https://arxiv.org/abs/2603.01775v1)
+
+**RubricBench: Aligning Model-Generated Rubrics with Human Standards**  
+_Authors:_ Qiyuan Zhang, Junyi Zhou, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, Qingfeng Sun, Kai Zheng, Peng Kang, Xue Liu, Chen Ma  
+_Published:_ 2026-03-02  
+[arXiv Link](https://arxiv.org/abs/2603.01562v2)
+
 ## 🗓️ 2026-02-22 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
