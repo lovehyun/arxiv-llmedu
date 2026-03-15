@@ -7,6 +7,20 @@
 
 
 
+
+## 🗓️ 2026-03-15 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning**  
+_Authors:_ Tzu-Heng Huang, Sirajul Salekin, Javier Movellan, Frederic Sala, Manjot Bilkhu  
+_Published:_ 2026-03-10  
+[arXiv Link](https://arxiv.org/abs/2603.09160v1)
+
+**CDRRM: Contrast-Driven Rubric Generation for Reliable and Interpretable Reward Modeling**  
+_Authors:_ Dengcan Liu, Fengkai Yang, Xiaohan Wang, Shurui Yan, Jiajun Chai, Jiahao Li, Yikun Ban, Zhendong Mao, Wei Lin, Guojun Yin  
+_Published:_ 2026-03-09  
+[arXiv Link](https://arxiv.org/abs/2603.08035v1)
+
 ## 🗓️ 2026-03-08 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
