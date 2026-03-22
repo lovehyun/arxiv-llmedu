@@ -8,6 +8,24 @@
 
 
 
+
+
+## 🗓️ 2026-03-22 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
+<small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
+
+**Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks**  
+_Authors:_ Rudra Jadhav, Janhavi Danve, Sonalika Shaw  
+_Published:_ 2026-03-19  
+[arXiv Link](https://arxiv.org/abs/2603.18765v1)
+
+## 🗓️ 2026-03-22 Weekly Digest — 1. 자동 채점 (Essay Scoring + LLM)
+<small>"large language model" AND ("automated essay scoring" OR "short answer grading" OR "student writing")</small>
+
+**Decision-Level Ordinal Modeling for Multimodal Essay Scoring with Large Language Models**  
+_Authors:_ Han Zhang, Jiamin Su, Li liu  
+_Published:_ 2026-03-16  
+[arXiv Link](https://arxiv.org/abs/2603.14891v1)
+
 ## 🗓️ 2026-03-15 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
