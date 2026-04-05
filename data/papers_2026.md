@@ -10,6 +10,25 @@
 
 
 
+
+## 🗓️ 2026-04-05 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**RIFT: A RubrIc Failure Mode Taxonomy and Automated Diagnostics**  
+_Authors:_ Zhengyang Qi, Charles Dickens, Derek Pham, Amanda Dsouza, Armin Parchami, Frederic Sala, Paroma Varma  
+_Published:_ 2026-04-01  
+[arXiv Link](https://arxiv.org/abs/2604.01375v1)
+
+**Optimsyn: Influence-Guided Rubrics Optimization for Synthetic Data Generation**  
+_Authors:_ Zhiting Fan, Ruizhe Chen, Tianxiang Hu, Ru Peng, Zenan Huang, Haokai Xu, Yixin Chen, Jian Wu, Junbo Zhao, Zuozhu Liu  
+_Published:_ 2026-04-01  
+[arXiv Link](https://arxiv.org/abs/2604.00536v1)
+
+**LLM Essay Scoring Under Holistic and Analytic Rubrics: Prompt Effects and Bias**  
+_Authors:_ Filip J. Kucia, Anirban Chakraborty, Anna Wróblewska  
+_Published:_ 2026-03-31  
+[arXiv Link](https://arxiv.org/abs/2604.00259v1)
+
 ## 🗓️ 2026-03-22 Weekly Digest — 3. 공정성, 신뢰도, 평가 일관성
 <small>("fairness" OR "bias" OR "reliability" OR "consistency") AND ("AI grading" OR "LLM scoring" OR "automated assessment")</small>
 
