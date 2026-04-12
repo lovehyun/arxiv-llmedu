@@ -11,6 +11,20 @@
 
 
 
+
+## 🗓️ 2026-04-12 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Self-Preference Bias in Rubric-Based Evaluation of Large Language Models**  
+_Authors:_ José Pombal, Ricardo Rei, André F. T. Martins  
+_Published:_ 2026-04-08  
+[arXiv Link](https://arxiv.org/abs/2604.06996v1)
+
+**Beyond Paper-to-Paper: Structured Profiling and Rubric Scoring for Paper-Reviewer Matching**  
+_Authors:_ Yicheng Pan, Zhiyuan Ning, Ludi Wang, Yi Du  
+_Published:_ 2026-04-07  
+[arXiv Link](https://arxiv.org/abs/2604.05866v1)
+
 ## 🗓️ 2026-04-05 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
