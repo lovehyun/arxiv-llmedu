@@ -12,6 +12,25 @@
 
 
 
+
+## 🗓️ 2026-04-19 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**  
+_Authors:_ Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, Yu Zhang  
+_Published:_ 2026-04-15  
+[arXiv Link](https://arxiv.org/abs/2604.14261v1)
+
+**Visual Preference Optimization with Rubric Rewards**  
+_Authors:_ Ya-Qi Yu, Fangyu Hong, Xiangyang Qu, Hao Wang, Gaojie Wu, Qiaoyu Luo, Nuo Xu, Huixin Wang, Wuheng Xu, Yongxin Liao, Zihao Chen, Haonan Li, Ziming Li, Dezhi Peng, Minghui Liao, Jihao Wu, Haoyu Ren, Dandan Tu  
+_Published:_ 2026-04-14  
+[arXiv Link](https://arxiv.org/abs/2604.13029v1)
+
+**Designing Reliable LLM-Assisted Rubric Scoring for Constructed Responses: Evidence from Physics Exams**  
+_Authors:_ Xiuxiu Tang, G. Alex Ambrose, Ying Cheng  
+_Published:_ 2026-04-14  
+[arXiv Link](https://arxiv.org/abs/2604.12227v1)
+
 ## 🗓️ 2026-04-12 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
