@@ -13,6 +13,15 @@
 
 
 
+
+## 🗓️ 2026-04-26 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text**  
+_Authors:_ Chengyu Huang, Sheng-Yen Chou, Zhengxin Zhang, Claire Cardie  
+_Published:_ 2026-04-21  
+[arXiv Link](https://arxiv.org/abs/2604.20051v1)
+
 ## 🗓️ 2026-04-19 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
