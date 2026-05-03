@@ -14,6 +14,25 @@
 
 
 
+
+## 🗓️ 2026-05-03 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**  
+_Authors:_ Ke Xu  
+_Published:_ 2026-04-30  
+[arXiv Link](https://arxiv.org/abs/2604.27629v1)
+
+**Measurement Risk in Supervised Financial NLP: Rubric and Metric Sensitivity on JF-ICR**  
+_Authors:_ Sidi Chang, Peiying Zhu, Yuxiao Chen, Rongdong Chai  
+_Published:_ 2026-04-30  
+[arXiv Link](https://arxiv.org/abs/2604.27374v1)
+
+**Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters**  
+_Authors:_ Aaryan Shah, Andrew Hines, Alexia Downs, Denis Bajet, Paulius Mui, Fabiano Araujo, Laura Offutt, Aida Rutledge, Elizabeth Jimenez  
+_Published:_ 2026-04-27  
+[arXiv Link](https://arxiv.org/abs/2604.24710v1)
+
 ## 🗓️ 2026-04-26 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
