@@ -15,6 +15,30 @@
 
 
 
+
+## 🗓️ 2026-05-10 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**SCRuB: Social Concept Reasoning under Rubric-Based Evaluation**  
+_Authors:_ Jamelle Watson-Daniels, Himaghna Bhattacharjee, Skyler Wang, Brandon Handoko, Antonio Li, Anaelia Ovalle, Mahesh Pasupuleti, Candace Ross, Vidya Sarma, Arjun Subramonian, Karen Ullrich, Will van der Vaart, Yijing Xin, Maximilian Nickel  
+_Published:_ 2026-05-07  
+[arXiv Link](https://arxiv.org/abs/2605.06444v1)
+
+**Quantifying the Statistical Effect of Rubric Modifications on Human-Autorater Agreement**  
+_Authors:_ Jessica Huynh, Alfredo Gomez, Athiya Deviyani, Renee Shelby, Jeffrey P. Bigham, Fernando Diaz  
+_Published:_ 2026-05-07  
+[arXiv Link](https://arxiv.org/abs/2605.06283v1)
+
+**EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics**  
+_Authors:_ Shuyue Stella Li, Rui Xin, Teng Xiao, Yike Wang, Rulin Shao, Zoey Hao, Melanie Sclar, Sewoong Oh, Faeze Brahman, Pang Wei Koh, Yulia Tsvetkov  
+_Published:_ 2026-05-05  
+[arXiv Link](https://arxiv.org/abs/2605.03871v1)
+
+**Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization**  
+_Authors:_ Weihang Su, Xuanyi Chen, Yueyue Wu, Qingyao Ai, Yiqun Liu  
+_Published:_ 2026-05-03  
+[arXiv Link](https://arxiv.org/abs/2605.02011v1)
+
 ## 🗓️ 2026-05-03 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
