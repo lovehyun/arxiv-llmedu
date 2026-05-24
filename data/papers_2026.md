@@ -16,6 +16,25 @@
 
 
 
+
+## 🗓️ 2026-05-24 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**LP-Eval: Rubric and Dataset for Measuring the Quality of Legal Proposition Generation**  
+_Authors:_ Shanshan Xu, Johan Lindholm, Amogh Raina, Henrik Palmer Olsen, Daniel Hershcovich  
+_Published:_ 2026-05-19  
+[arXiv Link](https://arxiv.org/abs/2605.19815v1)
+
+**AMARIS: A Memory-Augmented Rubric Improvement System for Rubric-Based Reinforcement Learning**  
+_Authors:_ Peilin Wu, Xinlu Zhang, Kun Wan, Wentian Zhao, Gang Wu, Xinya Du, Zhiyu Chen  
+_Published:_ 2026-05-18  
+[arXiv Link](https://arxiv.org/abs/2605.18592v1)
+
+**Step-wise Rubric Rewards for LLM Reasoning**  
+_Authors:_ Weichu Xie, Haozhe Zhao, Wenpu Liu, Yongfu Zhu, Liang Chen, Minghao Ye, Zirong Chen, Yuqi Xu, Shuai Dong, Ziyue Wang, Xinbo Xu, Kean Shi, Ruoyu Wu, Xiaoying Zhang, Wenqi Shao, Baobao Chang, Nan Duan, Jiaqi Wang  
+_Published:_ 2026-05-17  
+[arXiv Link](https://arxiv.org/abs/2605.17291v1)
+
 ## 🗓️ 2026-05-10 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
