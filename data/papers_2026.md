@@ -17,6 +17,55 @@
 
 
 
+
+## 🗓️ 2026-05-31 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection**  
+_Authors:_ Haowen Wang, Yaxin Du, Jian Yang, Jiajun Wu, Shukai Liu, Yuxuan Zhang, Pingjie Wang, Siheng Chen, Tuney Zheng, Ming Zhou, Xianglong Liu  
+_Published:_ 2026-05-28  
+[arXiv Link](https://arxiv.org/abs/2605.30288v1)
+
+**Reinforcement Learning with Robust Rubric Rewards**  
+_Authors:_ Ya-Qi Yu, Hao Wang, Fangyu Hong, Xiangyang Qu, Gaojie Wu, Qiaoyu Luo, Nuo Xu, Huixin Wang, Wuheng Xu, Yongxin Liao, Zihao Chen, Haonan Li, Ziming Li, Dezhi Peng, Minghui Liao, Jihao Wu, Haoyu Ren, Dandan Tu  
+_Published:_ 2026-05-28  
+[arXiv Link](https://arxiv.org/abs/2605.30244v1)
+
+**Feedback-to-Rubrics: Can We Learn Expert Criteria from Inline Comments?**  
+_Authors:_ Kotaro Yoshida, So Kuroki, Yuki Imajuku, Taishi Nakamura, Ryunosuke Iwai, Haruki Goda, Takuya Akiba  
+_Published:_ 2026-05-28  
+[arXiv Link](https://arxiv.org/abs/2605.29857v1)
+
+**EvoRubric: Self-Evolving Rubric-Driven RL for Open-Ended Generation**  
+_Authors:_ Xin Guan, Xiaomeng Hu, Shen Huang, Zhenyi Wang, Bo Zhang, Zijian Li, Pengjun Xie, Bo Liu, Jiuxin Cao  
+_Published:_ 2026-05-28  
+[arXiv Link](https://arxiv.org/abs/2605.29847v1)
+
+**Learnable Assessment Skills for LLM-based Automated Scoring: Rubric Construction via Iterative Optimization**  
+_Authors:_ Yun Wang, Xin Xia, Xuansheng Wu, Xiaoming Zhai, Ninghao Liu  
+_Published:_ 2026-05-28  
+[arXiv Link](https://arxiv.org/abs/2605.29274v1)
+
+**RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for LLM Post-training in Non-verifiable Domains**  
+_Authors:_ Haoxiang Jiang, Zihan Dong, Tianci Liu, Wanying Wang, Ran Xu, Tony Yu, Linjun Zhang, Haoyu Wang  
+_Published:_ 2026-05-27  
+[arXiv Link](https://arxiv.org/abs/2605.29156v1)
+
+**MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment**  
+_Authors:_ Zixuan Yang, Yibo Zhao, Weicong Liu, Xiang Li  
+_Published:_ 2026-05-27  
+[arXiv Link](https://arxiv.org/abs/2605.27865v1)
+
+**Focal Reward: Balanced Reinforcement Learning under Rubric-Based Rewards**  
+_Authors:_ Yu Huang, Zihua Zhao, Zhaoxin Huan, Wanli Gu, Feng Hong, Xinmu Ge, Lin Yuan, Weichang Wu, Qiang Hu, Xiaolu Zhang, Jun Zhou, Jiangchao Yao  
+_Published:_ 2026-05-26  
+[arXiv Link](https://arxiv.org/abs/2605.26579v1)
+
+**JudgmentBench: Comparing Rubric and Preference Evaluation for Quality Assessment**  
+_Authors:_ Russell Yang, Ruishi Chen, Pierce Kelaita, Riya Ranjan, Sibo Ma, Charles Dickens, Matthew Guillod, Megan Ma, Julian Nyarko  
+_Published:_ 2026-05-24  
+[arXiv Link](https://arxiv.org/abs/2605.25240v1)
+
 ## 🗓️ 2026-05-24 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
