@@ -18,6 +18,35 @@
 
 
 
+
+## 🗓️ 2026-06-07 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning**  
+_Authors:_ Xuekang Wang, Zhuoyuan Hao, Shuo Hou, Hao Peng, Juanzi Li, Xiaozhi Wang  
+_Published:_ 2026-06-03  
+[arXiv Link](https://arxiv.org/abs/2606.04923v1)
+
+**Leveraging BART to Assess CS1 C++ Programming Assignments using Rubric-based Criteria**  
+_Authors:_ Kelsey Rainey, Jesse Roberts  
+_Published:_ 2026-06-02  
+[arXiv Link](https://arxiv.org/abs/2606.03814v1)
+
+**RUBAS: Rubric-Based Reinforcement Learning for Agent Safety**  
+_Authors:_ Xian Qi Loye, Qinglin Su, Zhexin Zhang, Shiyao Cui, Qi Zhu, Fei Mi, Hongning Wang, Minlie Huang  
+_Published:_ 2026-06-02  
+[arXiv Link](https://arxiv.org/abs/2606.04051v1)
+
+**ARBOR: Online Process Rewards via a Reusable Rubric Buffer for Search Agents**  
+_Authors:_ Zheng Liu, Longxiang Zhang, Xintong Wang, Zhiang Xu, Shaoxiong Zhan, Xin Shan, Wen Huang, Tao Dai, Shu-Tao Xia, Chengfu Huo, Liang Ding  
+_Published:_ 2026-06-02  
+[arXiv Link](https://arxiv.org/abs/2606.03239v1)
+
+**Deep Research as Rubric for Reinforcement Learning**  
+_Authors:_ Wangyi Mei, Zhouhong Gu, Zhenhan Bai, Yin Cai, Lefan Zhang, Zhenxin Ding, Bo Chen, Yan Gao, Yi Wu, Yao Hu, Jiaqing Liang, Deqing Yang  
+_Published:_ 2026-05-31  
+[arXiv Link](https://arxiv.org/abs/2606.01091v1)
+
 ## 🗓️ 2026-05-31 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
