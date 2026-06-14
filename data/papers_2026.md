@@ -19,6 +19,35 @@
 
 
 
+
+## 🗓️ 2026-06-14 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Rubric-Guided Self-Distillation: Post-Training Without Rubric Verifiers**  
+_Authors:_ MohammadHossein Rezaei, Anas Mahmoud, Zihao Wang, Utkarsh Tyagi, Advait Gosai, Razvan-Gabriel Dumitru, Aakash Sabharwal, Bing Liu, Yunzhong He  
+_Published:_ 2026-06-10  
+[arXiv Link](https://arxiv.org/abs/2606.12507v1)
+
+**LexRubric: A Rubric-Guided Diagnostic Benchmark for Open-Ended Legal Tasks**  
+_Authors:_ Yifan Chen, Haitao Li, Yiran Hu, Kaisong Song, Jun Lin, Yueyue Wu, Qingyao Ai, Min Zhang, Yiqun Liu  
+_Published:_ 2026-06-08  
+[arXiv Link](https://arxiv.org/abs/2606.09389v1)
+
+**Reliable to Expressive: A Curriculum for Rubric-Following Safety Judges**  
+_Authors:_ Yongtaek Lim, Hyeji Choi, Minwoo Kim  
+_Published:_ 2026-06-08  
+[arXiv Link](https://arxiv.org/abs/2606.09165v1)
+
+**ComplexConstraints and Beyond: Expert Rubrics for RLVR**  
+_Authors:_ Sushant Mehta, Liudas Panavas, Edwin Chen  
+_Published:_ 2026-06-08  
+[arXiv Link](https://arxiv.org/abs/2606.09118v1)
+
+**From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape**  
+_Authors:_ Hao Chen, Ziyu Han, Yukun Yan, Qingfu Zhu, Maosong Sun, Wanxiang Che  
+_Published:_ 2026-06-07  
+[arXiv Link](https://arxiv.org/abs/2606.08625v1)
+
 ## 🗓️ 2026-06-07 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
