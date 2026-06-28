@@ -22,6 +22,20 @@
 
 
 
+
+## 🗓️ 2026-06-28 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning**  
+_Authors:_ Hongxin Ding, Baixiang Huang, Yue Fang, Weibin Liao, Zheng Li, Jinyang Zhang, Zhijing Wu, Junfeng Zhao, Yasha Wang  
+_Published:_ 2026-06-22  
+[arXiv Link](https://arxiv.org/abs/2606.23038v1)
+
+**IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO**  
+_Authors:_ Mostapha Benhenda  
+_Published:_ 2026-06-22  
+[arXiv Link](https://arxiv.org/abs/2606.23032v2)
+
 ## 🗓️ 2026-06-21 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
