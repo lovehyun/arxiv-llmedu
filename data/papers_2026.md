@@ -23,6 +23,30 @@
 
 
 
+
+## 🗓️ 2026-07-05 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks**  
+_Authors:_ Samiha A. Ismail, Fan X. Chen, Ali Merali  
+_Published:_ 2026-07-02  
+[arXiv Link](https://arxiv.org/abs/2607.02175v1)
+
+**SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use**  
+_Authors:_ Jiayin Zhu, Kelong Mao, Yudong Guo, Dengbo He, Sulong Xu, Simiu Gu, Yutao Yue  
+_Published:_ 2026-07-02  
+[arXiv Link](https://arxiv.org/abs/2607.01874v1)
+
+**Many Voices, One Reward: Multi-Role Rubric Generation for LLM Judging and Reward Modeling**  
+_Authors:_ Dazhi Fu, Jiuding Yang, Yiwen Guo, Jicong Fan  
+_Published:_ 2026-07-02  
+[arXiv Link](https://arxiv.org/abs/2607.01830v1)
+
+**Can LLM-as-a-Judge Reliably Verify Rubrics in Agentic Scenarios?**  
+_Authors:_ Yangda Peng, Yunjia Qi, Hao Peng, Haotian Xia, Guanzhong He, Xintong Shi, Richeng Xuan, Songyuanyi Lu, Yixian Liu, Zhichao Hu, Yuhong Liu, Lei Hou, Bin Xu, Juanzi Li  
+_Published:_ 2026-06-29  
+[arXiv Link](https://arxiv.org/abs/2606.29920v1)
+
 ## 🗓️ 2026-06-28 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
