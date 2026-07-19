@@ -25,6 +25,30 @@
 
 
 
+
+## 🗓️ 2026-07-19 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Rubrics on Trial: Evolving Rubrics from a Single Query via Synthetic Pairwise Evidence**  
+_Authors:_ Haocheng Yang, Licheng Pan, Xiaoxi Li, Zhichao Chen, Zhiheng Zhang, Yuan Lu, Haoxuan Li, Hao Wang  
+_Published:_ 2026-07-16  
+[arXiv Link](https://arxiv.org/abs/2607.15092v1)
+
+**When Rubrics Change: Cross-Rubric Generalization for Critical Thinking Essay Scoring**  
+_Authors:_ Nischal Ashok Kumar, Payu Wittawatolarn, Sana Kang, Marisa C. Peczuh, Blair Lehman, Ryan Baker, Caitlin Mills, Sherry Lachman, Ruochen Sun, Andrew Lan  
+_Published:_ 2026-07-15  
+[arXiv Link](https://arxiv.org/abs/2607.13433v1)
+
+**Can LLMs Write Reliable Rubrics? A Meta-Evaluation for Experiment Reproduction**  
+_Authors:_ Hanhua Hong, Yizhi Li, Jiaoyan Chen, Luu Gia Huy, Sophia Ananiadou, Jung-jae Kim, Chenghua Lin  
+_Published:_ 2026-07-14  
+[arXiv Link](https://arxiv.org/abs/2607.12835v1)
+
+**FinResearchBench II: A Deep Research Benchmark with Consensus-Derived Gold Rubrics for Distinguishing Financial Report Quality**  
+_Authors:_ Beidi Luan, Rui Sun, Sinuo Wang, Yan Gu, Chao Li, Zhenliang Xiong, Jing Li, Zuo Bai  
+_Published:_ 2026-07-14  
+[arXiv Link](https://arxiv.org/abs/2607.12252v2)
+
 ## 🗓️ 2026-07-12 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
