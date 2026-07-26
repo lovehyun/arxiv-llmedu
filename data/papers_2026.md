@@ -26,6 +26,25 @@
 
 
 
+
+## 🗓️ 2026-07-26 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness**  
+_Authors:_ Xilun Chen, Zhaleh Feizollahi, Ross Goodwin, Seungwhan Moon, Scott Yih, Pinar Donmez, Babak Damavandi, Luna Dong  
+_Published:_ 2026-07-21  
+[arXiv Link](https://arxiv.org/abs/2607.19322v1)
+
+**Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards**  
+_Authors:_ Xuefeng Jin, Jiashuo Zhang, Teng Cao, Bin Yang  
+_Published:_ 2026-07-21  
+[arXiv Link](https://arxiv.org/abs/2607.19219v1)
+
+**Enhancing Rubric-based RL via Self-Distillation**  
+_Authors:_ Mingxuan Xia, Yuhang Yang, Chao Ye, Shuai Zhu, Shenzhi Yang, Guangcheng Zhu, Yuhang Zhang, Cheng Peng, Haobo Wang, Siqing Wang  
+_Published:_ 2026-07-20  
+[arXiv Link](https://arxiv.org/abs/2607.18082v2)
+
 ## 🗓️ 2026-07-19 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
