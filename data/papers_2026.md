@@ -27,6 +27,15 @@
 
 
 
+
+## 🗓️ 2026-08-02 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space**  
+_Authors:_ Jiangwang Chen, Zixin Song, Junlin Liu, Shuaiyu Zhou, Haiyan Wu, Haihan Shi, Chenxi Zhou, Hanqing Li, Xiao Yang, Da Zhu, Guanjun Jiang, Hai Wan, Xibin Zhao  
+_Published:_ 2026-07-28  
+[arXiv Link](https://arxiv.org/abs/2607.25675v1)
+
 ## 🗓️ 2026-07-26 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
