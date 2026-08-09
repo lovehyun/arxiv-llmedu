@@ -28,6 +28,30 @@
 
 
 
+
+## 🗓️ 2026-08-09 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning**  
+_Authors:_ Muyang Ye, Tian Lan, Feihu Jiang, Yongshi Ye, Wuyunsiqin, Bin Zhu, Qianghuai Jia, Zhao Xu, Weihua Luo, Ye Wang, Jinyang Zhang, Longyue Wang, Lingfeng Bao  
+_Published:_ 2026-08-05  
+[arXiv Link](https://arxiv.org/abs/2608.05245v1)
+
+**FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables**  
+_Authors:_ Ben Wang, Kang Zhou, Lifan Guo, Feng Chen, Chi Zhang  
+_Published:_ 2026-08-04  
+[arXiv Link](https://arxiv.org/abs/2608.04077v1)
+
+**Training Documents Reranker with Search Rubrics for Deep Research Agent**  
+_Authors:_ Wenhan Liu, Yu Lu, Qiaolin Xia, Hui Xu, Tong Zhao, Jian Xi, Yutao Zhu, Haijin Liang, Haibo Shi, Hao Wang, Zhicheng Dou  
+_Published:_ 2026-08-04  
+[arXiv Link](https://arxiv.org/abs/2608.03527v1)
+
+**RADAR: Rubric-Aware Dependency and Redundancy Analysis for LLM-as-Judge Evaluation**  
+_Authors:_ Divyansh Singh, Reza Davari, Afra Mashhadi  
+_Published:_ 2026-08-03  
+[arXiv Link](https://arxiv.org/abs/2608.01810v1)
+
 ## 🗓️ 2026-08-02 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
