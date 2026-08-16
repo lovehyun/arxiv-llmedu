@@ -29,6 +29,25 @@
 
 
 
+
+## 🗓️ 2026-08-16 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Graph-Structured Rubrics: Compiling Rubrics into Typed Evaluation Graphs for LLM Judges**  
+_Authors:_ Xi Chen, Jie Mu, Mo Xuan, Qun Shao  
+_Published:_ 2026-08-12  
+[arXiv Link](https://arxiv.org/abs/2608.12097v1)
+
+**Rubric Dropout: A Simple Way to Mitigate Reward Hacking in Rubric-as-Reward RL**  
+_Authors:_ Minglai Yang, Xinyu Guo, Utkarsh Tyagi, Mian Zhang, Razvan Dumitru, Sunjie Hou, Yunzhong He, Daniel Yue Zhang, Ying Liu  
+_Published:_ 2026-08-12  
+[arXiv Link](https://arxiv.org/abs/2608.11669v1)
+
+**RISE-RL: Rubric-Informed Selective Exploration for Open-Ended Reinforcement Learning**  
+_Authors:_ Jinkun Hou, Zhuo Liu, Huimin Ren, Hongsheng Xin, Pan Zhou, Kun Zhan  
+_Published:_ 2026-08-10  
+[arXiv Link](https://arxiv.org/abs/2608.09123v1)
+
 ## 🗓️ 2026-08-09 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
