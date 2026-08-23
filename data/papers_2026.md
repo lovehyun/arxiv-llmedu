@@ -30,6 +30,15 @@
 
 
 
+
+## 🗓️ 2026-08-23 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**TRCA: Transition-wise Rubric Credit Assignment for Long-horizon LLM Agents**  
+_Authors:_ Huan Zhang, Mingju Chen, Dongxu Zhou, Can Lv, Heng Chang, Sen Cui, Faguo Wu, Shiji Zhou  
+_Published:_ 2026-08-17  
+[arXiv Link](https://arxiv.org/abs/2608.16156v1)
+
 ## 🗓️ 2026-08-16 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
