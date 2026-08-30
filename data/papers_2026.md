@@ -31,6 +31,20 @@
 
 
 
+
+## 🗓️ 2026-08-30 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**RecurSE: Bounded Recursive Self-Evaluation for LLM Rubric Judges**  
+_Authors:_ Kaiyuan Liu, Ziyuan Zhuang, Rongxiang Weng, Jieping Ye  
+_Published:_ 2026-08-25  
+[arXiv Link](https://arxiv.org/abs/2608.24231v1)
+
+**ExecRubrics: Executable Tool-Augmented Rubrics for Verifiable and Efficient Long-Form Evaluation**  
+_Authors:_ Kaustubh D. Dhole, Charles L. A. Clarke, Eugene Y. Agichtein  
+_Published:_ 2026-08-23  
+[arXiv Link](https://arxiv.org/abs/2608.22559v2)
+
 ## 🗓️ 2026-08-23 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
