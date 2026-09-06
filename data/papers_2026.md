@@ -32,6 +32,40 @@
 
 
 
+
+## 🗓️ 2026-09-06 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**CARE: Contrastive Anchor-based Rubric Evolution for Large Language Model Post-Training**  
+_Authors:_ Siyuan Li, Xinxin Song, Chen Ruinian, Jingjing Fan, Tingxiong Xiao, Yangen Hu, Ke Zeng, Jinli Suo  
+_Published:_ 2026-09-01  
+[arXiv Link](https://arxiv.org/abs/2609.00892v1)
+
+**Judging LLM-as-a-Judge: Concerning Rubric Artifacts in LLM-based Automated Text Generation Evaluation**  
+_Authors:_ Anshul Bagaria, Sowmya S Sundaram, Gokul S Krishnan, Balaraman Ravindran  
+_Published:_ 2026-08-31  
+[arXiv Link](https://arxiv.org/abs/2609.02942v1)
+
+**Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents**  
+_Authors:_ Xuehai Wang, Haowei Qin, Tongxin Liu, Junkai Li, Buqiang Xu, Jintian Zhang, Yijun Chen, Zirui Xue, Shumin Deng  
+_Published:_ 2026-08-31  
+[arXiv Link](https://arxiv.org/abs/2608.31076v1)
+
+**Small Language Models as Judges for Rubric-Based Reinforcement Learning**  
+_Authors:_ Fengyu Xie, Yilun Zhao, Bingsen Chen, Arman Cohan, Chen Zhao  
+_Published:_ 2026-08-30  
+[arXiv Link](https://arxiv.org/abs/2608.30005v1)
+
+**Beyond Fluency: A Rubric-Based Benchmark for Evaluating Saudi Dialect and Cultural Competence in Large Language Models**  
+_Authors:_ Ghassan Al-Sumaidaee, Sajjad Abdoli, Ahmed Rashad, Maxim Legg  
+_Published:_ 2026-08-30  
+[arXiv Link](https://arxiv.org/abs/2608.29990v1)
+
+**GenRubric: Self-Evolving Rubric Generation for Scalable LLM Evaluation**  
+_Authors:_ Yifan Chen, Haitao Li, Qingyao Ai, Fengbin Zhu, Tat-Seng Chua, Min Zhang, Yiqun Liu  
+_Published:_ 2026-08-30  
+[arXiv Link](https://arxiv.org/abs/2608.29856v1)
+
 ## 🗓️ 2026-08-30 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
