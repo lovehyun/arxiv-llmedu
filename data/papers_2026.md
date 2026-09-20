@@ -33,6 +33,29 @@
 
 
 
+
+
+## 🗓️ 2026-09-20 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals**  
+_Authors:_ Bowen Qin, Yi Xie, Yesheng Liu, Xi Yang  
+_Published:_ 2026-09-15  
+[arXiv Link](https://arxiv.org/abs/2609.16816v1)
+
+**SkillLift: Learning Dense Rubrics from Sparse Oracles for Efficient Skill Evolution**  
+_Authors:_ Haoxiang Kang, Ming Wen  
+_Published:_ 2026-09-14  
+[arXiv Link](https://arxiv.org/abs/2609.15396v1)
+
+## 🗓️ 2026-09-20 Weekly Digest — 1. 자동 채점 (Essay Scoring + LLM)
+<small>"large language model" AND ("automated essay scoring" OR "short answer grading" OR "student writing")</small>
+
+**The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment**  
+_Authors:_ Donya Rooein, Luca Benedetto, Dirk Hovy  
+_Published:_ 2026-09-15  
+[arXiv Link](https://arxiv.org/abs/2609.16993v1)
+
 ## 🗓️ 2026-09-06 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
