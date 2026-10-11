@@ -36,6 +36,30 @@
 
 
 
+
+## 🗓️ 2026-10-11 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Evaluating Rubric Generation with Interventional Transfer**  
+_Authors:_ Erik Skalnes, Layne C. Price, Raviteja Anantha, Michael Oberst  
+_Published:_ 2026-10-07  
+[arXiv Link](https://arxiv.org/abs/2610.10809v1)
+
+**Alice: A Large-Scale German Benchmark for Rubric-Based Multi-Dimensional Automatic Short Answer Scoring**  
+_Authors:_ Zhifan Sun, Sebastian Gombert, Jannik Lossjew, Tobias Wyrwich, Berrit Katharina Czinczel, David Bednorz, Marcus Kubsch, Knut Neumann, Hendrik Drachsler  
+_Published:_ 2026-10-07  
+[arXiv Link](https://arxiv.org/abs/2610.09661v1)
+
+**Rubric Spans are Label Representations: Joint LLM Encoding for Short Answer Scoring**  
+_Authors:_ Zhifan Sun, Sebastian Gombert, Fabian Zehner, Leon Camus, Longwei Cong, Hendrik Drachsler  
+_Published:_ 2026-10-07  
+[arXiv Link](https://arxiv.org/abs/2610.09660v1)
+
+**RubricArmor: Adversarial Evolution Improves LLM-Based Rubric Generation**  
+_Authors:_ Haocheng Yang, Yuchao Zhang, Licheng Pan, Jiajun Fan, Maolin Wang, Kangning Zhang, Shuai Shao, Shijian Wang, Yuan Lu, Chunyuan Zheng, Hao Wang  
+_Published:_ 2026-10-04  
+[arXiv Link](https://arxiv.org/abs/2610.05308v1)
+
 ## 🗓️ 2026-09-27 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
