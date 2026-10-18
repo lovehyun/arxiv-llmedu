@@ -37,6 +37,40 @@
 
 
 
+
+## 🗓️ 2026-10-18 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support**  
+_Authors:_ John Mendonça, Daniel Tschernutter, José Pombal, Areti Vassilopoulos, Catarina Botelho, Ignacio Sarasua, Maya D'Eon, Nuno Guerreiro, Ricardo Rei  
+_Published:_ 2026-10-15  
+[arXiv Link](https://arxiv.org/abs/2610.22314v1)
+
+**Rubric Judgments Lack Uncertainty: Conformal Weighting for LLM Evaluation**  
+_Authors:_ Licheng Pan, Haocheng Yang, Haoxuan Li, Yuzhou Chen, Yichen Sun, Yuan Lu, Xiaoxi Li, Hao Wang, Zhixuan Chu, Kui Ren  
+_Published:_ 2026-10-15  
+[arXiv Link](https://arxiv.org/abs/2610.21214v1)
+
+**Judging the Judges: Confidence and Disagreement in Rubrics as Rewards**  
+_Authors:_ Michael Tian-Yue Liu, Anne Harrington, Trevor Darrell, Yutong Bai  
+_Published:_ 2026-10-15  
+[arXiv Link](https://arxiv.org/abs/2610.21179v1)
+
+**SoK: Grading Open-Text Legal Answers, from Law School Exams to Trustworthy Rubric Judges**  
+_Authors:_ Sebastian Nagl  
+_Published:_ 2026-10-14  
+[arXiv Link](https://arxiv.org/abs/2610.19992v1)
+
+**Not All Criteria Matter: Importance-Aware Criteria Weighting for Rubric-Based LLM Evaluation**  
+_Authors:_ Haocheng Yang, Licheng Pan, Yiming Dong, Xiaoxi Li, Yuan Lu, Zhenhao Chen, Jiajun Fan, Shuai Shao, Chunyuan Zheng, Hao Wang  
+_Published:_ 2026-10-14  
+[arXiv Link](https://arxiv.org/abs/2610.19915v1)
+
+**STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions and Rubric**  
+_Authors:_ Yoonsu Kim, Hayeon Doh, Eunhye Kim, Jinho Son, Juho Kim  
+_Published:_ 2026-10-12  
+[arXiv Link](https://arxiv.org/abs/2610.16344v1)
+
 ## 🗓️ 2026-10-11 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
