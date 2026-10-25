@@ -38,6 +38,30 @@
 
 
 
+
+## 🗓️ 2026-10-25 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**  
+_Authors:_ Hongyu Li, Xinlong Huang, Zhan Yu, Jing Zhao, Zhe Zhao, Juntao Zhong, Xiong Kuang, Rui Yuan, ZhenXiang Yan, Huilin Xu, Haitao Yu, Lilin Wang, Rui Chen, Blaze Chen, Fengzong Lian, Renfen Hu  
+_Published:_ 2026-10-21  
+[arXiv Link](https://arxiv.org/abs/2610.29225v1)
+
+**SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics**  
+_Authors:_ Xiaoyu Gu, Chencheng Wang, Fuyang Li, Yu Xi, Tao Liu, Jiaoqi Guo, Kai Yu  
+_Published:_ 2026-10-20  
+[arXiv Link](https://arxiv.org/abs/2610.27820v1)
+
+**MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching**  
+_Authors:_ Yitong Li, Jiang Bian, Jingling Wang, Pan Ding, Chengying Gu  
+_Published:_ 2026-10-19  
+[arXiv Link](https://arxiv.org/abs/2610.26185v1)
+
+**Inside the Scorer: Mechanistic Evidence on Rubric Control in LLM-Based Automated Essay Scoring from 25 Base Models**  
+_Authors:_ Chungche Huang, Po-Ya Angela Wang, Shu-Kai Hsieh  
+_Published:_ 2026-10-19  
+[arXiv Link](https://arxiv.org/abs/2610.25724v1)
+
 ## 🗓️ 2026-10-18 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
