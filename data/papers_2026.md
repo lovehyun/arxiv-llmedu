@@ -39,6 +39,35 @@
 
 
 
+
+## 🗓️ 2026-11-01 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**Co-Evolving Policy and Rubric via Capability Awareness for Open-Ended Generation**  
+_Authors:_ Chengsheng Zhang, Wenshen Xu, Yuchuan Wu, Zhiyuan Yu, Junfeng Fang, Tianlong Wang, Bingxue Qiu, Yongbin Li, Xiang Wang  
+_Published:_ 2026-10-28  
+[arXiv Link](https://arxiv.org/abs/2610.38566v1)
+
+**Rubricon: Automated Rubric Generation and Refinement for LLM Evaluation and Training**  
+_Authors:_ Ulyana Tkachenko, Hui Wen Goh, Guram Gogia, Jonas Mueller  
+_Published:_ 2026-10-28  
+[arXiv Link](https://arxiv.org/abs/2610.38220v1)
+
+**When the Critic Falls Behind: Co-Evolving Rubrics and Harnesses for Continual Agent Self-Improvement**  
+_Authors:_ Hao Chen, Yukun Yan, Ziyu Han, Ye He, Chuanzhe Guo, Shangzhan Li, Qi Shi, Qingfu Zhu, Maosong Sun, Wanxiang Che  
+_Published:_ 2026-10-27  
+[arXiv Link](https://arxiv.org/abs/2610.36826v1)
+
+**Patient-specific rubric-based evaluation of large language models across longitudinal cancer care**  
+_Authors:_ Wei-Wei Zhang, Pengkai Wang, Yan Li, Zhijie Sang, Guan-Qun Zhou, Jun-Yan Li, Shu-Han Zhou, Pei-Wen Liu, Ting-Xi Tang, Min Tang, Zhitian Hou, Jianmin Wu, Jian Guan, i Lin, Hongxia Yang, Ying Sun  
+_Published:_ 2026-10-26  
+[arXiv Link](https://arxiv.org/abs/2610.35847v1)
+
+**RubriX: A Fast, Fine-Tunable Non-Autoregressive Rubric Judge**  
+_Authors:_ Balamurugan Paramasivam, Sudalai Rajkumar  
+_Published:_ 2026-10-26  
+[arXiv Link](https://arxiv.org/abs/2610.34875v1)
+
 ## 🗓️ 2026-10-25 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
