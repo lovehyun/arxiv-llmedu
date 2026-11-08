@@ -40,6 +40,30 @@
 
 
 
+
+## 🗓️ 2026-11-08 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
+<small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
+
+**LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution**  
+_Authors:_ Xinyu Yang, Jiejun Tan, Chenlong Deng, Chenghao Zhang, Tongyu Wen, Zhicheng Dou  
+_Published:_ 2026-11-04  
+[arXiv Link](https://arxiv.org/abs/2611.06381v1)
+
+**CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines**  
+_Authors:_ Yuqin Dai, Zhanwei Zhang, Honghui Yang, Zhouheng Yao, Yueqi Zhang, Jingyu He, Chaoyang Shi, Fanding Wei, Boyuan Pan, Kai Xu, Yao Hu, Yongliang Shen  
+_Published:_ 2026-11-04  
+[arXiv Link](https://arxiv.org/abs/2611.05862v1)
+
+**Same Rule, Different Verdicts: Rubric Language and Clause Structure in LLM Judges for Korean Support Dialogues**  
+_Authors:_ Sangdo Han, Moonsoo Kim  
+_Published:_ 2026-11-03  
+[arXiv Link](https://arxiv.org/abs/2611.04091v1)
+
+**RubricWorld: World Model-Guided Rubric Optimization for LLM Graders**  
+_Authors:_ Hongji Pu, Hang Li, Yucheng Chu, Jiliang Tang  
+_Published:_ 2026-11-01  
+[arXiv Link](https://arxiv.org/abs/2611.01986v1)
+
 ## 🗓️ 2026-11-01 Weekly Digest — 2. 루브릭 기반 피드백 및 교육 평가
 <small>("rubric" OR "educational assessment" OR "formative feedback") AND ("LLM" OR "GPT" OR "foundation model")</small>
 
